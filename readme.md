@@ -1,82 +1,236 @@
-📗Table of Contents
+<a name="readme-top"></a>
 
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-💻 Getting Started
-Prerequisites
-Setup
-Usage
-👥 Authors
-🤝 Contributing
-🙏 Acknowledgements
-📝 License
+<div align="center">
 
-📖 [Hello Microverse]
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello Microverse] <a name="about-project"></a>
+
+> Describe your project in 1 or 2 sentences.
+
+**[Hello Microverse]**is a project for micronauts day 2, its basically to test my knowledge on setting up html and css linters, and gitflow.
 
 
-[Hello Microverse] is a project for micronauts day 2, its basically to test my knowledge on setting up html and css linters, and gitflow.
 
-🛠 Built With
-html and css
+## 🛠 Built With <a name="built-with"></a>
 
+### Tech Stack <a name="html and css"></a>
 
+> Describe the tech stack and include only the relevant sections that apply to your project.
 
-A html file that include a header and a css file that include on class
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
 
-🚀 Live Demo
-https://github.com/kingnoel/hello_microverse
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
 
-💻 Getting Started
-Access this basic files.
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
-Prerequisites
-A browser.
+<!-- Features -->
 
-Setup
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[background color of blue]**
+- **[header tag with hello microverse]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://github.com/kingnoel/hello_microverse)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need: A browser.
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
 
 Clone this repository to your desired folder:
 
 git@github.com:kingnoel/hello_microverse.git
 
-Install
-This project can be installed using a commandline interface.
-
-Usage
-
-Execute the following command to run this project:
-
-Turn on IDE liveserver
 
 
-👥 Authors
+<!--
+Example commands:
 
-👤 Kingnoel
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
-GitHub: @Kingnoel
-LinkedIn: King Immanuel
+### Install
 
-🔭 Future Features
+Install This project can be installed using a commandline interface.
 
-Future features as recommended by microvers
+<!--
+Example command:
 
-🤝 Contributing
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+Install This project can be installed using a commandline interface.
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/kingnoel)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/KingImma)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/king-immanuel-6941721a0/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[more to come from microverse]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Pair programmers working with me and my stand up team members
 
-⭐️ Show your support
+Feel free to check the [issues page](github.com/kingnoel/issues/).
 
-This is my first project as a micronaut, do anticipate more exciting project from the I the most sort after engineer
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🙏 Acknowledgments
-Microverse
+<!-- SUPPORT -->
 
-❓ FAQ
+## ⭐️ Show your support <a name="support"></a>
 
-Add at least 2 questions new developers would ask when they decide to use your project.
+> Write a message to encourage readers to support your project
 
-📝 License
+If you like this project fork the repo
 
-This project is MIT licensed.
-Copyright (c) [2022] [King Immanuel
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank everyone thank you.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
