@@ -9,10 +9,7 @@
  - [Tech Stack](#tech-stack)
 - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Usage](#usage)
-- [👥 Authors](#authors)
+- [👥 Author](#author)
 - [🤝 Contributing](#contributing)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
@@ -48,30 +45,22 @@
 
 ### Prerequisites
 
-In order to run this project you need:
+step 1:
+Clone this repo locally using git in the command line and the following command
 
-A Browser
+```
+git clone https://github.com/kingnoel/hello_microverse.git
+```
 
-### Setup
+Alternatively, you can just download the complete zip file and extract the folder in your directory
 
-Clone this repository to your desired folder:
+Step 2:
+Copy All Project files and run using VSCODE. HTML can be viewed in browser.
 
-```git@github.com:kingnoel/Hello_Microverse.git```
-
-### Install
-Install this project with:
-
-A commandline interface e.g Gitbash
-
-### Usage
-
-To run the project, execute the following command:
-
-Click on the live server button on your IDE
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Author <a name="authors"></a>
+## 👥 Author <a name="author"></a>
 
 👤 **King Immanuel**
 
@@ -89,7 +78,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like appreciate all micronauts and the entire microverse team.
+I sincerely appreciate all micronauts and the entire microverse team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
