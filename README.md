@@ -1,82 +1,98 @@
-📗Table of Contents
+# Hello-Microverse
 
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-💻 Getting Started
-Prerequisites
-Setup
-Usage
-👥 Authors
-🤝 Contributing
-🙏 Acknowledgements
-📝 License
+<a name="readme-top"></a>
 
-📖 [Hello Microverse]
+# 📗Table of Contents
+
+- [📖 About the Project](#about-project)
+- [🛠 Built With](#built-with)
+ - [Tech Stack](#tech-stack)
+- [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🤝 Contributing](#contributing)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
+
+**[Hello Microverse]** is a project for micronauts day 2, its basically to test my knowledge on setting up html and css linters, and gitflow.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- An HTML File
+- A CSS File
+- An md file
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-[Hello Microverse] is a project for micronauts day 2, its basically to test my knowledge on setting up html and css linters, and gitflow.
+## 💻 Getting Started <a name="getting-started"></a>
 
-🛠 Built With
-html and css
+### Prerequisites
 
+In order to run this project you need:
 
+A Browser
 
-A html file that include a header and a css file that include on class
-
-🚀 Live Demo
-https://github.com/kingnoel/hello_microverse
-
-💻 Getting Started
-Access this basic files.
-
-Prerequisites
-A browser.
-
-Setup
+### Setup
 
 Clone this repository to your desired folder:
 
-git@github.com:kingnoel/hello_microverse.git
+```git@github.com:kingnoel/Hello_Microverse.git```
 
-Install
-This project can be installed using a commandline interface.
+### Install
+Install this project with:
 
-Usage
+A commandline interface e.g Gitbash
 
-Execute the following command to run this project:
+### Usage
 
-Turn on IDE liveserver
+To run the project, execute the following command:
 
+Click on the live server button on your IDE
 
-👥 Authors
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👤 Kingnoel
+## 👥 Author <a name="authors"></a>
 
-GitHub: @Kingnoel
-LinkedIn: King Immanuel
+👤 **King Immanuel**
 
-🔭 Future Features
+- GitHub: [@kingnoel](https://github.com/kingnoel)
+- LinkedIn: [King Immanuel](https://www.linkedin.com/in/king-immanuel-6941721a0/)
 
-Future features as recommended by microvers
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
+Contributions, issues, and feature requests are welcome!
 
-Pair programmers working with me and my stand up team members
+Feel free to check the [issues page](../../issues/).
 
-⭐️ Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This is my first project as a micronaut, do anticipate more exciting project from the I the most sort after engineer
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-🙏 Acknowledgments
-Microverse
+I would like appreciate all micronauts and the entire microverse team.
 
-❓ FAQ
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Add at least 2 questions new developers would ask when they decide to use your project.
-
-📝 License
+## 📝 License <a name="license"></a>
 
 This project is MIT licensed.
-Copyright (c) [2022] [King Immanuel
