@@ -3,7 +3,7 @@
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse</b></h3>
 
 </div>
 
@@ -27,7 +27,7 @@
 
 # 📖 [Hello Microverse Project] <a name="about-project"></a>
 
-**[Hello Microverse]** is a project for micronauts day 2, its basically to test my knowledge on setting up html and css linters, and gitflow.
+**Hello Microverse** is a project for micronauts day 2, its basically to test my knowledge on setting up html and css linters, and gitflow.
 
 ## 🛠 Built With <a name="built-with"></a>
 
